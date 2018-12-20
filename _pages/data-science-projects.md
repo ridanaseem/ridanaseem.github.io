@@ -4,10 +4,9 @@ permalink: /data-science-projects/
 title: "Data Science Projects by Tags"
 author_profile: true
 header:
-  images: #"/assets/images/"
+  images: "/assets/images/bruges-coverphoto.jpg"
 ---
 
-{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
