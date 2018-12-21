@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: #"/assets/images/"
+  image: "/assets/images/bruges-coverphoto1.jpg"
   overlay_color: #"#191970"
 #classes: wide
 search: false
