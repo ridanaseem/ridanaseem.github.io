@@ -2,7 +2,6 @@
 layout: archive
 permalink: /data-science-projects/
 title: "Data Science Projects by Tags"
-author_profile: true
 header:
   images: "/assets/images/bruges-coverphoto.jpg"
 ---

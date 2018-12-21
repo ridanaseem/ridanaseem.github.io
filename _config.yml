@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rida Naseem"
+title                    : "Rida Naseem - Data Science Portfolio"
 title_separator          : "-"
 name                     : "Rida Naseem"
-description              : "Data Science Portfolio"
+description              : #"Data Science Portfolio"
 url                      : https://ridanaseem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
