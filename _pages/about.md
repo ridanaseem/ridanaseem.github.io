@@ -9,4 +9,18 @@ search: false
 share: false
 read_time: false
 ---
-I am a data scientist who... blah blah - fix
+
+Add a little about myself... - FIX
+
+
+_Education_
+**University of Michigan**
+M.A. Applied Statistics
+Focus in Economics and Finance
+2015
+
+**McMaster University**
+Honors B.Sc. Mathematics and Statistics
+Statistics Specialization
+Minor: Economics
+2012
