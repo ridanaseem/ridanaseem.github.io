@@ -1,9 +1,9 @@
 ---
 layout: archive
 permalink: /data-science-projects/
-title: "Data Science Projects by Topic"
+title: "Data Science Projects by Tag"
 header:
-  image: "/assets/images/bruges-coverphoto.jpg"
+  image: #"/assets/images/bruges-coverphoto.jpg"
 layout: collection
 
 ---

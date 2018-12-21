@@ -2,7 +2,7 @@
 main:
     - title: "About"
       url: /about/
-    - title: "Projects"
+    - title: "Projects Archive"
       url: /data-science-projects/
 
   # - title: "Sample Posts"
