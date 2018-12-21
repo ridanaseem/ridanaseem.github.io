@@ -3,7 +3,9 @@ layout: archive
 permalink: /data-science-projects/
 title: "Data Science Projects by Topic"
 header:
-  images: "/assets/images/bruges-coverphoto.jpg"
+  image: "/assets/images/bruges-coverphoto.jpg"
+layout: collection
+
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

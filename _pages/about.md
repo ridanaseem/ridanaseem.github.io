@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: #"About"
 permalink: /about/
 header:
   image: #"/assets/images/"
@@ -10,22 +10,22 @@ share: false
 read_time: false
 ---
 
-##About Me
+## About Me
 
 Add a little about myself... - FIX
 
 
-## Education_
+## Education
 
 **University of Michigan**
 
 M.A. Applied Statistics
-Focus in Economics and Finance
-2015
+- Focus in Economics and Finance
+- Graduated 2015
 
 **McMaster University**
 
 Honors B.Sc. Mathematics and Statistics
-Statistics Specialization
-Minor: Economics
-2012
+- Statistics Specialization
+- Minor in Economics
+- Graduated 2012
