@@ -1,7 +1,7 @@
 # main links
 main:
     - title: "Data Science Projects"
-    url: /data-science-projects/
+      url: /data-science-projects/
     - title: "About"
       url: /about/
   # - title: "Sample Posts"
