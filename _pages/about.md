@@ -10,25 +10,22 @@ share: false
 read_time: false
 ---
 
+##About Me
+
 Add a little about myself... - FIX
 
 
-_Education_
+## Education_
 
 **University of Michigan**
 
 M.A. Applied Statistics
-
 Focus in Economics and Finance
-
 2015
 
 **McMaster University**
 
 Honors B.Sc. Mathematics and Statistics
-
 Statistics Specialization
-
 Minor: Economics
-
 2012
